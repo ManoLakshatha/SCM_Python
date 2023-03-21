@@ -1,0 +1,3 @@
+
+ def fun():
+    ster:str
